@@ -1,0 +1,89 @@
+$--color-main: #fbbc04;
+$--color-hover: #fbbc04;
+$--color-text: #000;
+$--color-white: #fff;
+$--color-black: #000;
+$--color-border: #ccc;
+$--color-placeholder: #555;
+
+$--bg-mess: #1777f1;
+$--bg-zalo: #008ff3;
+
+$--fs-13: 13px;
+$--fs-14: 14px;
+$--fs-15: 15px;
+$--fs-16: 16px;
+$--fs-18: 18px;
+$--fs-20: 20px;
+$--fs-24: 24px;
+$--fs-28: 28px;
+$--fs-32: 32px;
+
+$--height-header: 80px;
+$--height-header-top: 100px;
+$--height-header-bot: 40px;
+$--height-header-mb: 60px;
+
+$--min-width-1400: 1351px;
+$--min-width-1200: 1251px;
+$--min-width-992: 960px;
+$--min-width-768: 720px;
+$--min-width-576: 540px;
+
+@font-face {
+  font-family: "default";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../font/Montserrat-Black.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "default";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../font/Montserrat-Bold.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "default";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../font/Montserrat-SemiBold.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "default";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../font/Montserrat-Medium.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "default";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../font/Montserrat-Regular.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "default";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../font/Montserrat-Light.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url("../font/Roboto-Medium.ttf");
+}
+
+@font-face {
+  font-family: gotham;
+  src: url("../font/SVN-GOTHAM-BOOK.OTF");
+}
